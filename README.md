@@ -2,7 +2,7 @@
 
 ### Project Brief – Credit Card Dashboard
 
-This project focuses on analyzing credit card transactions and customer behavior using Power BI. The dashboard provides a 360° view of both transaction-level insights (Page 2) and customer-level insights (Page 3), enabling better decision-making for financial institutions.
+This project focuses on analyzing credit card transactions and customer behavior using Power BI. The dashboard is fully interactive, allowing users to explore revenue trends, customer demographics, and transaction insights dynamically through filters and drill-downs.
 
 #### The goal was to identify:
 
